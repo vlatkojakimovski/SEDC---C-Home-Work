@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class03 - HomeWork\\Task-02\\Task-02.csproj": {}
+  },
+  "projects": {
+    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class03 - HomeWork\\Task-02\\Task-02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class03 - HomeWork\\Task-02\\Task-02.csproj",
+        "projectName": "Task-02",
+        "projectPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class03 - HomeWork\\Task-02\\Task-02.csproj",
+        "packagesPath": "C:\\Users\\Jakimovski\\.nuget\\packages\\",
+        "outputPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class03 - HomeWork\\Task-02\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jakimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

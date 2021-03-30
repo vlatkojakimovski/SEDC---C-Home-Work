@@ -1,0 +1,11 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\bin\Debug\netcoreapp2.2\Task-02.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\bin\Debug\netcoreapp2.2\Task-02.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\bin\Debug\netcoreapp2.2\Task-02.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\bin\Debug\netcoreapp2.2\Task-02.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\bin\Debug\netcoreapp2.2\Task-02.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.csprojAssemblyReference.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class03 - HomeWork\Task-02\obj\Debug\netcoreapp2.2\Task-02.pdb

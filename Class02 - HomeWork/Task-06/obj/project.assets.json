@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-06\\Task-06.csproj",
+      "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-06\\Task-06.csproj",
       "projectName": "Task-06",
-      "projectPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-06\\Task-06.csproj",
+      "projectPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-06\\Task-06.csproj",
       "packagesPath": "C:\\Users\\Jakimovski\\.nuget\\packages\\",
-      "outputPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-06\\obj\\",
+      "outputPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

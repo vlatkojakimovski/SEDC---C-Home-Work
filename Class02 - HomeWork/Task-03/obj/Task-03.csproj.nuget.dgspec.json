@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-03\\Task-03.csproj": {}
+    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-03\\Task-03.csproj": {}
   },
   "projects": {
-    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-03\\Task-03.csproj": {
+    "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-03\\Task-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-03\\Task-03.csproj",
+        "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-03\\Task-03.csproj",
         "projectName": "Task-03",
-        "projectPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-03\\Task-03.csproj",
+        "projectPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-03\\Task-03.csproj",
         "packagesPath": "C:\\Users\\Jakimovski\\.nuget\\packages\\",
-        "outputPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class 02\\Class02 - HomeWork\\Task-03\\obj\\",
+        "outputPath": "D:\\SEAVUS Academu .NET Developer\\C #\\C # Home Work\\SEDC-CSharp-Home-Work\\Class02 - HomeWork\\Task-03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
