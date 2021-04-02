@@ -22,9 +22,9 @@ namespace Exercise_6
                 {
                     counter++;
                     Array.Resize(ref arrayNames, counter + 1);
-                    continue;
+                    //continue;
                 }
-                else break;
+                //else break;
             }
 
             for (int i = 0; i < arrayNames.Length; i++)

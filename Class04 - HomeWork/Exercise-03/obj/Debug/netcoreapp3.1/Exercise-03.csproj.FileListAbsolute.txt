@@ -1,0 +1,13 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\bin\Debug\netcoreapp3.1\Exercise-03.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.csprojAssemblyReference.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\Exercise-03\obj\Debug\netcoreapp3.1\Exercise-03.genruntimeconfig.cache
