@@ -1,0 +1,26 @@
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.exe
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.deps.json
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.json
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.dev.json
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.dll
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.pdb
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.csprojAssemblyReference.cache
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfoInputs.cache
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfo.cs
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.csproj.CoreCompileInputs.cache
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.dll
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.pdb
+C:\Users\Jakimovski\source\repos\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.genruntimeconfig.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\bin\Debug\netcoreapp3.1\Task-01.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.csprojAssemblyReference.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class05 - HomeWork\Task-01\obj\Debug\netcoreapp3.1\Task-01.genruntimeconfig.cache
