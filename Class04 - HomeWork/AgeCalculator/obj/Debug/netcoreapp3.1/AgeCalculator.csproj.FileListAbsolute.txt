@@ -1,0 +1,13 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csprojAssemblyReference.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class04 - HomeWork\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.genruntimeconfig.cache
