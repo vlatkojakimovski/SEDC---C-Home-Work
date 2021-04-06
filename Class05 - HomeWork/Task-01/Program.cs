@@ -40,29 +40,46 @@ namespace Task_01
 
                 Console.WriteLine("Select car No.1 ?");
                 printCars(carsArray, firstSelectedCar-1);
-                firstSelectedCar = int.Parse(Console.ReadLine());
-                raceCarsArr[0] = carsArray[firstSelectedCar-1];
+                //firstSelectedCar = int.Parse(Console.ReadLine());
+                bool successfulParseFirstCar = int.TryParse(Console.ReadLine(), out int firstSelectedCarOut);
+                Console.WriteLine( checkInput(successfulParseFirstCar, firstSelectedCarOut, firstSelectedCar));
+                raceCarsArr[0] = carsArray[firstSelectedCarOut - 1];
 
                 Console.WriteLine("Select driver ?");
                 printDrivers(driversArray, firstSelectedDriver-1);
-                firstSelectedDriver = int.Parse(Console.ReadLine());
-                raceDriversArr[0] = driversArray[firstSelectedDriver-1];
+                //firstSelectedDriver = int.Parse(Console.ReadLine());
+                bool successfulParseFirstDriver = int.TryParse(Console.ReadLine(), out int firstSelectedDriverOut);
+                raceDriversArr[0] = driversArray[firstSelectedDriverOut - 1];
 
                 raceCarsArr[0].driver = raceDriversArr[0];
 
                 Console.WriteLine("Select car No.2 ?");
                 printCars(carsArray, firstSelectedCar-1);
-                secondSelectedCar = int.Parse(Console.ReadLine());
-                raceCarsArr[1] = carsArray[secondSelectedCar-1];
+                //secondSelectedCar = int.Parse(Console.ReadLine());
+                bool successfulParseSecondCar = int.TryParse(Console.ReadLine(), out int secondSelectedCarOut);
+                raceCarsArr[1] = carsArray[secondSelectedCarOut - 1];
 
                 Console.WriteLine("Select driver ?");
                 printDrivers(driversArray, firstSelectedDriver-1);
-                secondSelectedDriver = int.Parse(Console.ReadLine());
-                raceDriversArr[1] = driversArray[secondSelectedDriver-1];
+                //secondSelectedDriver = int.Parse(Console.ReadLine());
+                bool successfulParseSecondDriver = int.TryParse(Console.ReadLine(), out int secondSelectedDriverOut);
+                raceDriversArr[1] = driversArray[secondSelectedDriverOut - 1];
 
                 raceCarsArr[1].driver = raceDriversArr[1];
 
                 RaceCars(raceCarsArr[0], raceCarsArr[1]);
+            }
+
+            bool checkInput (bool input, int inputNumber, int selectedCarDriver)
+            {
+                if (input && inputNumber >= 0 && inputNumber <= 4 && inputNumber != selectedCarDriver)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
 
             pickCarDriver();

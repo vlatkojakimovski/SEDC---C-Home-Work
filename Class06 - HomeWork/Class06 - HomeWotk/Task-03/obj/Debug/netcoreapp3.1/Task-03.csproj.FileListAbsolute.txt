@@ -1,0 +1,13 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\bin\Debug\netcoreapp3.1\Task-03.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.genruntimeconfig.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class06 - HomeWork\Class06 - HomeWotk\Task-03\obj\Debug\netcoreapp3.1\Task-03.csprojAssemblyReference.cache
