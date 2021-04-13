@@ -1,0 +1,16 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\ref\Homework Class08.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\bin\Debug\net5.0\Homework Class08.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.csprojAssemblyReference.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\ref\Homework Class08.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class08 - HomeWork\Homework Class08\obj\Debug\net5.0\Homework Class08.genruntimeconfig.cache
