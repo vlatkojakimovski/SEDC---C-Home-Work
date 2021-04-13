@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroes Journey", "Heroes Journey\Heroes Journey.csproj", "{88E413DC-23BA-4005-91C5-536958762E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E413DC-23BA-4005-91C5-536958762E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E413DC-23BA-4005-91C5-536958762E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E413DC-23BA-4005-91C5-536958762E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E413DC-23BA-4005-91C5-536958762E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8556E1-39AB-453F-A341-0FC4EF9A5BDD}
+	EndGlobalSection
+EndGlobal
