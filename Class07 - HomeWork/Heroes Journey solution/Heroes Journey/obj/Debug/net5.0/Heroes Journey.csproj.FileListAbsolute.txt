@@ -21,7 +21,6 @@ D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\bin\Debug\net5.0\Heroes Journey.dll
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\bin\Debug\net5.0\ref\Heroes Journey.dll
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\bin\Debug\net5.0\Heroes Journey.pdb
-D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.csprojAssemblyReference.cache
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.GeneratedMSBuildEditorConfig.editorconfig
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.AssemblyInfoInputs.cache
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.AssemblyInfo.cs
@@ -30,3 +29,4 @@ D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\ref\Heroes Journey.dll
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.pdb
 D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.genruntimeconfig.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class07 - HomeWork\Heroes Journey solution\Heroes Journey\obj\Debug\net5.0\Heroes Journey.csprojAssemblyReference.cache
