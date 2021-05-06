@@ -1,0 +1,16 @@
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.exe
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.deps.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\ref\HabitTracker.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\bin\Debug\net5.0\HabitTracker.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\ref\HabitTracker.dll
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.pdb
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.genruntimeconfig.cache
+D:\SEAVUS Academu .NET Developer\C #\C # Home Work\SEDC-CSharp-Home-Work\Class09 - HomeWork\HabitTracker\HabitTracker\obj\Debug\net5.0\HabitTracker.csprojAssemblyReference.cache
